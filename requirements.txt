@@ -1,0 +1,6 @@
+fastapi
+pydantic
+reportlab
+mistune
+uvicorn
+xhtml2pdf
